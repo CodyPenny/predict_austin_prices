@@ -66,7 +66,7 @@ Here are starter addresses that can be used:
 
 2. Uses a multi-step form process to collect details about the property with input validation checks along the way.
 
-<img width="1585" alt="Screen Shot 2022-02-26 at 12 25 21 PM" src="https://user-images.githubusercontent.com/53372490/155858073-6886b7be-6146-4aa8-9c71-a7b277b4362d.png">
+![screen](https://user-images.githubusercontent.com/53372490/155858257-a9b7d25e-3a15-4f02-84bf-3cca5c168bfa.jpg)
 
 ![screen](https://user-images.githubusercontent.com/53372490/155858177-c77db82b-3912-450e-9f8e-d648afb7084a.jpg)
 
