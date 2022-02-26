@@ -4,17 +4,17 @@
 
 ## Introduction
 
-15,175 listings from the Austin, TX area were sourced from a data science platform, cleaned, evaluated, and preprocessed to build a machine learning model that predicts the value of the property. The dataset is then trained and fitted to a model which is integrated to the backend of the web application.
+15,175 listings from the Austin, TX area were sourced from a data science platform, then cleaned, evaluated, and preprocessed to build a machine learning model which predicts the value of the property. The dataset was then trained and fitted to a model which was next integrated to the backend of the web application.
 
-A listing can have an excessive amount of detail unnecessary for the model. These are removed while any nulls, duplicates, and outliers are also evaluated. Real estate prices are also appreciated to the current time scale.
+A listing can have an excessive amount of detail unnecessary for the model. These were removed while nulls, duplicates, and outliers were also evaluated. Real estate prices were also appreciated to the current time scale to give a more accurate prediction.
 
-Once the dataset is ready, an 80/20 training split is applied and a standard logistic regression model is used for the prediction.
+Once the dataset is ready, an 80/20 training split was applied and a standard logistic regression model was used for the prediction.
 
 ## Project Description
 
-The data frame form of the dataset is exported as a pickle file and the predictive model is built using Python's sci-kit learn library. 4 API endpoints are built with Python one of which queries a third-party geolocation API to obtain the street address's latitude and longitude. The second API accepts the characteristics of the property and the third and fourth API returns data for the UI data visualization.
+The data frame form of the dataset was exported as a pickle file and the predictive model was built using Python's sci-kit learn library. 4 API endpoints were built with Python, one of which queries a third-party geolocation API to obtain the street address's latitude, longitude, and zipcode. The second API accepts the characteristics of the property and the third and fourth API returns the data for the UI visualization.
 
-For deployment, Nginx is used as a reverse proxy and uWSGI as the application server in AWS EC2.
+For deployment, Nginx was used as a reverse proxy and uWSGI as the application server in AWS EC2.
 
 ## Technologies
 
