@@ -62,7 +62,7 @@ Here are starter addresses that can be used:
 - 7905 Bannock Ln
 - 11905 Glenda Ct
 
-(The app uses the geocoding API of positionstack.com)
+The app uses the geocoding API of https://positionstack.com/
 
 2. Uses a multi-step form process to collect details about the property with input validation checks along the way.
 
