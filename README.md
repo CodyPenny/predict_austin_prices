@@ -68,6 +68,6 @@ Here are starter addresses that can be used:
 
 <img width="1585" alt="Screen Shot 2022-02-26 at 12 25 21 PM" src="https://user-images.githubusercontent.com/53372490/155858073-6886b7be-6146-4aa8-9c71-a7b277b4362d.png">
 
-<img width="741" alt="Screen Shot 2022-02-26 at 12 27 45 PM" src="https://user-images.githubusercontent.com/53372490/155858110-bd85d81e-09c1-40e3-b996-294821fd69ef.png">
+![screen](https://user-images.githubusercontent.com/53372490/155858177-c77db82b-3912-450e-9f8e-d648afb7084a.jpg)
 
 
