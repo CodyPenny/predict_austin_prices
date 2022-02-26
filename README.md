@@ -70,4 +70,7 @@ Here are starter addresses that can be used:
 
 ![screen](https://user-images.githubusercontent.com/53372490/155858177-c77db82b-3912-450e-9f8e-d648afb7084a.jpg)
 
+3. The collected data runs through the model and computes a prediction.
+
+![screen](https://user-images.githubusercontent.com/53372490/155858257-a9b7d25e-3a15-4f02-84bf-3cca5c168bfa.jpg)
 
