@@ -72,5 +72,5 @@ Here are starter addresses that can be used:
 
 3. The collected data runs through the model and computes a prediction.
 
-![screen](https://user-images.githubusercontent.com/53372490/155858257-a9b7d25e-3a15-4f02-84bf-3cca5c168bfa.jpg)
+![screen](https://user-images.githubusercontent.com/53372490/155858474-4f13cc37-9029-43ed-89cb-a8ab9aaa88ec.jpg)
 
