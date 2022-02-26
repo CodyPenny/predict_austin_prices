@@ -53,7 +53,7 @@ Run the project
 
 ## Features
 
-1. A multi-step form accepts an address string and validates the address via the geolocation API.
+1.The app accepts an address string and validates the address with geolocation API integration. It uses the validated zipcode in its computation
 
 <img width="535" alt="Screen Shot 2022-02-26 at 1 58 37 AM" src="https://user-images.githubusercontent.com/53372490/155838836-aefcb08d-3d8f-4f4e-aa2c-5fd8f21e581a.png">
 
@@ -61,3 +61,13 @@ Here are starter addresses that can be used:
 
 - 7905 Bannock Ln
 - 11905 Glenda Ct
+
+(The app uses the geocoding API of positionstack.com)
+
+2. Uses a multi-step form process to collect details about the property with input validation checks along the way.
+
+<img width="1585" alt="Screen Shot 2022-02-26 at 12 25 21 PM" src="https://user-images.githubusercontent.com/53372490/155858073-6886b7be-6146-4aa8-9c71-a7b277b4362d.png">
+
+<img width="741" alt="Screen Shot 2022-02-26 at 12 27 45 PM" src="https://user-images.githubusercontent.com/53372490/155858110-bd85d81e-09c1-40e3-b996-294821fd69ef.png">
+
+
