@@ -52,3 +52,7 @@ Run the project
     npm run dev-server
 
 ## Features
+
+- A multi-step form accepts an address string and validates the address via the geolocation API.
+
+<img width="673" alt="Screen Shot 2022-02-26 at 1 56 01 AM" src="https://user-images.githubusercontent.com/53372490/155838771-588062af-c2eb-4dbd-a2de-cb657ff14d76.png">
