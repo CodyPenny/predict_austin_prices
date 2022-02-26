@@ -1,4 +1,4 @@
-# Austin Real Estate Price Predictor
+# Responsive Austin Real Estate Price Predictor
 
 ***
 
