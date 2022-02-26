@@ -53,6 +53,11 @@ Run the project
 
 ## Features
 
-- A multi-step form accepts an address string and validates the address via the geolocation API.
+1. A multi-step form accepts an address string and validates the address via the geolocation API.
 
-<img width="673" alt="Screen Shot 2022-02-26 at 1 56 01 AM" src="https://user-images.githubusercontent.com/53372490/155838771-588062af-c2eb-4dbd-a2de-cb657ff14d76.png">
+<img width="535" alt="Screen Shot 2022-02-26 at 1 58 37 AM" src="https://user-images.githubusercontent.com/53372490/155838836-aefcb08d-3d8f-4f4e-aa2c-5fd8f21e581a.png">
+
+Here are starter addresses that can be used:
+
+- 7905 Bannock Ln
+- 11905 Glenda Ct
