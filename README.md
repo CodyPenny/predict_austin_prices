@@ -8,7 +8,7 @@
 
 A listing can have an excessive amount of detail unnecessary for the model. These were removed while nulls, duplicates, and outliers were also evaluated. Real estate prices were also appreciated to the current time scale to give a more accurate prediction.
 
-Once the dataset is ready, an 80/20 training split was applied and a standard logistic regression model was used for the prediction.
+Once the dataset is ready, an 80/20 training split was applied and a standard linear regression model was used for the prediction.
 
 ## Project Description
 
